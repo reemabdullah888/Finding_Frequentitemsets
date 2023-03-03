@@ -1,6 +1,7 @@
 # Finding_Frequentitemsets
 Implementing the SON Algorithm using the Spark Framework to find frequent itemsets in two large datasets more efficiently in a distributed environment
 
+* Dataset:  Ta Feng dataset (https://bit.ly/2miWqFS) 
 
 To run the code online using Vocareum:
 On Vocareum, you can call `spark-submit` located at
